@@ -1,2 +1,2 @@
 # tec-RHVT
-TEC-1 separates high-energy molecules from low energy
+TEC-1 Ranque-Hilsch vortex tube separates high/low energy molecules
